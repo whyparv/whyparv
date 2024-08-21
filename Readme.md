@@ -33,7 +33,6 @@
 [![website](./img/instagram-dark.svg)](https://instagram.com/whyparv._#gh-dark-mode-only)
 
 <br />
-<br />
 
 ---
 ### Languages and Tools:
